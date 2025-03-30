@@ -43,8 +43,8 @@ With the built-in budget calculator, users can plug in income and expenses to re
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/quack-hack.git
-cd quack-hack
+git clone https://github.com/your-username/get-bills.git
+cd get-bills
 npm install
 npm run dev
 ```
